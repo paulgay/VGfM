@@ -1,6 +1,6 @@
 # VGfM
-This repository contains annotations made over the first version of the ScanNet dataset [1]. A set of predicates are given for 8762 pairs of objects in the file `annotations.json`. 
-
+This repository contains annotations made over the first version of the [ScanNet](http://www.scan-net.org/) dataset [1]. A set of predicates are given for 8762 pairs of objects in the file `annotations.json`. 
+In this file, each pair of object is identified by it's scene id and their object id as provided in the 
 
 We manually annotated 4 predicates: 
 * part of: A portion or division of a whole that is separate or distinct, e.g. shelf is part-of a bookcase.
