@@ -1,0 +1,1164 @@
+category,refinedCategory
+wall,wall,na
+chair,chair,chair
+floor,floor,na
+table,table,table
+door,door,door
+couch,couch,bench
+cabinet,cabinet,cabinet
+shelf,shelf,shelf
+desk,desk,desk
+office chair,office_chair,chair
+bed,bed,bed
+trashcan,bin
+pillow,pillow
+sink,sink
+picture,picture
+window,window
+toilet,toilet
+bookshelf,bookshelf
+monitor,monitor
+computer,computer
+curtain,curtain
+book,book
+armchair,armchair
+coffee table,coffee_table
+drawer,drawer
+box,box
+refrigerator,refrigerator
+lamp,lamp
+kitchen cabinet,kitchen_cabinet
+dining chair,dining_chair
+towel,towel
+clothes,clothes
+tv,television
+nightstand,nightstand
+counter,counter
+dresser,dresser
+countertop,countertop
+stool,stool
+cushion,cushion
+plant,plant
+ceiling,ceiling
+bathtub,bathtub
+bedframe,bedframe
+end table,end_table
+dining table,dining_table
+keyboard,keyboard
+bag,bag
+backpack,backpack
+toilet paper,toilet_tissue
+printer,printer
+tv stand,television_stand
+whiteboard,whiteboard
+carpet,carpet
+blanket,blanket
+shower curtain,shower_curtain
+trash can,bin
+closet,closet
+stair,staircase
+microwave,microwave
+washbasin,sink
+rug,rug
+stove,cooker
+shoe,shoe
+computer tower,computer_tower
+bottle,bottle
+bin,bin
+ottoman,foot_stool
+bench,bench
+board,board
+washing machine,washing_machine
+mirror,mirror
+copier,copier
+basket,basket
+sofa chair,sofa_chair
+file cabinet,file_cabinet
+fan,fan
+laptop,laptop
+shower,shower
+paper,paper
+person,person
+headboard,headboard
+paper towel dispenser,paper_towel_dispenser
+faucet,faucet
+oven,oven
+footstool,footstool
+blinds,blinds
+rack,rack
+plate,plate
+blackboard,blackboard
+piano,piano
+heater,heater
+soap,soap
+luggage,luggage
+computer desk,computer_desk
+rail,rail
+radiator,radiator
+recycle bin,recycle_bin
+container,container
+wardrobe,wardrobe
+soap dispenser,soap_dispenser
+telephone,telephone
+bucket,bucket
+clock,clock
+stand,stand
+light,light
+laundry basket,laundry_basket
+pipe,pipe
+round table,round_table
+roof,ceiling
+clothes dryer,clothes_dryer
+coat,coat
+guitar,guitar
+desk chair,desk_chair
+sheet,sheet
+toilet paper holder,toilet_tissue_dispenser
+seat,seat
+step,staircase
+speaker,speaker
+vending machine,vending_machine
+column,column
+bicycle,bicycle
+ladder,ladder
+cover,cover
+handle,handle
+bathroom stall,bathroom_stall
+foosball table,foosball_table
+table lamp,table_lamp
+shower wall,shower_wall
+chest,chest
+cup,cup
+jacket,jacket
+storage bin,box
+screen,monitor
+coffee maker,coffee_maker
+hamper,hamper
+dishwasher,dishwasher
+window frame,window
+paper towel,paper_towel
+machine,machine
+mat,mat
+windowsill,windowsill
+tap,tap
+pool table,pool_table
+hand dryer,hand_dryer
+bar,bar
+frame,frame
+rolling chair,rolling_chair
+toaster,toaster
+wall frame,picture
+hanger,hanger
+conference table,conference_table
+handrail,handrail
+treadmill,treadmill
+bulletin board,bulletin_board
+ironing board,ironing_board
+fireplace,fireplace
+soap dish,soap_dish
+fabric,clothes
+kitchen counter,kitchen_counter
+glass,glass
+doorframe,doorframe
+table cushion,table_cushion
+toilet paper dispenser,toilet_tissue_dispenser
+slab,slab
+mini fridge,mini_fridge
+fire extinguisher,fire_extinguisher
+shampoo,shampoo
+ball,ball
+hat,hat
+shower curtain rod,shower_curtain_rod
+junk,junk
+soap holder,soap_dish
+staircase,staircase
+toiletry,toothbrush
+stall door,stall_door
+framed picture,frame_picture
+water cooler,water_cooler
+bags,bags
+desk lamp,desk_lamp
+paper cutter,paper_cutter
+led tv,television
+switch,switch
+bed sheet,bed_sheet
+roof frame,ceiling_frame
+tray,tray
+comforter,comforter
+air conditioner,air_conditioner
+shower door,shower_door
+shirt,shirt
+swivel chair,swivel_chair
+pillar,pillar
+detergent,detergent
+ledge,shelf
+vase,vase
+toaster oven,toaster
+bedpost,bedpost
+food,food
+picture frame,picture
+poltrone,chair
+study table,desk
+office table,office_table
+mouse,mouse
+storage,storage
+nerf gun,nerf_gun
+table chair,chair
+night table,night_table
+computer chair,computer_chair
+toilet seat liner dispenser,toilet_cover
+backrest,backrest
+chair seat,chair_seat
+sink cabinet,sink_cabinet
+can,can
+furniture,furniture
+cart,cart
+stool chair,chair
+step stool,step_stool
+robe,robe
+table stand,table_support
+stall,stall
+dispenser,dispenser
+storage container,box
+side table,side_table
+partition,partition
+appliance,appliance
+lotion,liquid_soap
+pot,saucepan
+photo,photo
+toilet brush,toilet_brush
+scale,scale
+tissue box,tissue_box
+remote,remote
+light switch,light_switch
+crate,step_stool
+ping pong table,ping_pong_table
+platform,draws
+pantry,pantry
+bath cabinet,bath_cabinet
+slipper,slipper
+sideboard,side_table
+holder,holder
+worktop,worktable
+outlet,outlet
+gas cooker,cooker
+doorhandle,doorhandle
+cutting board,cutting_board
+bathroom sink,bathroom_sink
+controller,console_controller
+bedding set,bedding_set
+mount,table
+decoration,decoration
+tablet,table
+reading table,reading_table
+floor covered,rug
+cooker,cooker
+file,file
+archive,archive
+trolley,trolley
+wainscoting,skirting_board
+lampshade,lampshade
+china,china
+sign,sign
+fax machine,printer
+mirror frame,mirror
+projector,projector
+sweater,sweater
+paint can,bucket
+heat register,heater
+kitchen table,kitchen_table
+globe,globe
+toy,toy
+kitchen worktop,kitchen_worktop
+paper roll,toilet_roll
+meeting table,meeting_table
+vaze,vase
+wall clock,wall_clock
+closet door,closet_door
+pack,backpack
+doormat,doormat
+tissue,toilet_tissue
+plastic container,plastic_container
+statue,statue
+dollhouse,dollhouse
+vacuum,vacuum
+wet floor sign,sign
+vanity,vanity
+candle,candle
+library desk,table
+carton box,carton_box
+easel,corkboard
+wall lamp,wall_lamp
+wall hanging,artwork
+face wash,face_wash_bottle
+corner,corner
+lounge chair,lounge_chair
+beanbag,beanbag
+marker holder,marker_holder
+dumbell,dumbell
+ping pong paddle,ping_pong_racket
+locker,locker
+plunger,plunger
+soap bar,soap
+student chair,student_chair
+office object,office_object
+stuffed animal,stuffed_animal
+water fountain,water_cooler
+doorknob,doorknob
+footrest,footrest
+ac unit,air_conditioner
+safe,safe
+tile,tiled_floor
+easle,whiteboard
+headphone,headphone
+dress,clothes
+rolling cart,rolling_cart
+chest of drawers,chest_of_drawers
+plastic bin,plastic_bin
+pail,pail
+dry erase board,dry_erase_board
+coatrack,coat_rack
+recliner,recliner_chair
+roomba,roomba_vacuum
+highchair,highchair
+dish rack,dish_rack
+dartboard,dartboard
+broom,broom
+book rack,book_rack
+eraser,eraser
+bath mat,bath_mat
+textile,cloth
+paper box,paper_towel_dispenser
+guitar case,guitar_case
+mop,mop
+lavatory,sink
+server,rack
+paper towel holder,paper_towel_dispenser
+office supply,office_supply
+panel,paneling
+toilet brush holder,toilet_brush_holder
+magazine,magazine
+kitchen rack,kitchen_rack
+table object,table_object
+range hood,range_hood
+bath,bath
+trim,sideboard
+scanner,printer
+bathrobe,bathrobe
+door and post,door
+pouff,foot_stool
+spring curtain,curtain
+recycle,recycle_bin
+fax,printer
+rolling shelf,rolling_cart
+flat-screen television,flat-screen_television
+futon,futon
+stack of chairs,stack_of_chairs
+dustpan,dustpan
+hand towel,hand_towel
+floor lamp,floor_lamp
+mainboard,computer_tower
+kitchen shelf,kitchen_cabinet
+organizer,organizer
+freezer,freezer
+furnace,heater
+stock,box
+map,white_board
+helmet,helmet
+wallpaper,picture
+wall cabinet,wall_cabinet
+office equipment,office_equipment
+hair dryer,hair_dryer
+backsplash,backsplash
+exercise ball,exercise_ball
+jeremiah,jeremiah
+flush,toilet_roll
+fridge just,fridge_just
+folded clothes,folded_clothes
+window counter,windowsill
+iron,iron
+studio light,studio_light
+sconce,lampshade
+sofa set,sofa
+baseboard,baseboard
+sink counter,sink_counter
+kitchen slab,kitchen_slab
+cabinet door,cabinet_door
+exercise machine,exercise_machine
+wood,board
+teatowels,towel
+workbench,workbench
+backwall,wall
+cubby,cubby
+water bottle,water_bottle
+kitchen sink,kitchen_sink
+sink area,sink
+handicap bar,handicap_rail
+painter,painter
+tank,tank
+washstand,washstand
+purse,purse_bag
+surface,surface
+towel rack,towel_rack
+decor,decor
+handwash,sink
+bar stool,bar_stool
+pan,pan
+air propeller,air_propeller
+paneling,paneling
+vent,range_hood
+kitchen junk,kitchen_junk
+piano bench,piano_bench
+bunk bed,bunk_bed
+bed lamp,bed_lamp
+shower mat,shower_mat
+bedding,bedding
+shoe rack,shoe_rack
+notice board,notice_board
+shower floor,shower_floor
+brush,brush
+table football,football_table
+padded bench,padded_bench
+bathroom carpet,bathroom_carpet
+showerhead,showerhead
+loft,bunk_bed
+chair w/table,chair_with_table
+bedhead,bedhead
+roll,roll_of_paper
+comidin,bedside_cabinet
+cardboard box,cardboard_box
+cushion stool,cushion_stool
+bed cabinet,bed_cabinet
+pile of clothes,pile_of_clothes
+case,case
+slep,board
+swiffer,broom
+stapler,stapler
+cable,cable
+work desk,table
+floor carpet,floor_carpet
+bedside,bedside
+trash bag,trash_bag
+heating devce,heating_devce
+sofa table,table
+ventilator,range_hood
+cat,gold_floor_ornament
+kitchen utensil,kitchen_utensil
+counter top for sink,counter_top_for_sink
+bathroom frame,bathroom_frame
+banister,banister
+tuvalet ka?ƒ??d??,toilet_tissue
+trunk,laundry_basket
+blank screen,blank_screen
+tire,tire
+screen curtain,screen_curtain
+cooking range,cooker
+dressware,dressware
+blow up matress,mattress
+shred bin,recycle_bin
+air matress,mattress
+folder,folder
+room heater,room_heater
+car,car
+massage armchair,massage_armchair
+wardrobe door,wardrobe_door
+coffee supply,coffee_supply
+tissue holder,paper_towel_dispenser
+tab,table
+knickknack,decorations
+indoor plant,indoor_plant
+notebook,notebook
+water dispenser,water_cooler
+cleaning supply,cleaning_supply
+library table,table
+bin cover,bin_cover
+teakettle,kettle
+reservoir,reservoir
+arc sofa,arc_sofa
+bedside lamp,bedside_lamp
+picture window,picture_window
+medicine cabinet,medicine_cabinet
+cosmetic bag,cosmetic_bag
+coffee,coffee
+brush holder,brush_holder
+duvet,duvet
+flower stand,flower_stand
+bedcover,bedcover
+side,side_table
+weight,weight
+pitcher,pitcher
+schoolbag,rucksack
+wall picture,picture
+metal handrail,metal_handrail
+icebox,icebox
+exercise equipment,exercise_machine
+loft bed,loft_bed
+tennis table,tennis_table
+bookbag,backpack
+scarf,scarf
+cabinet drawer,cabinet_drawer
+double door,bunk_bed
+books in a book shelf,bookshelf
+entertainment stand,entertainment_stand
+potty,toilet
+john,toilet
+desk accessory,laptop
+chair support,chair_support
+shopping bag,paper_bag
+tree,tree
+dustpan broom,broom
+stall wall,stall_wall
+t??ß?¥ng,wall
+bedside drawer,bedside_drawer
+chaise,chaise
+curtain rod,curtain_rod
+boardgame,boardgame
+cccvurtains,curtain
+device,shredder
+armrest,armrest
+alarm,alarm_clock
+towel rail,towel_rail
+sliding wood doors,sliding_wood_doors
+backbag,backpack
+bath curtain,bath_curtain
+washcloth,towel
+bean bag chair,bean_bag_chair
+toolbox,box
+rack shelf,rack_shelf
+kleenex box,tissue_box
+air freshner,air_freshner
+sewing machine,sewing_machine
+washing and drying machine,washing_machine
+hairbrush,hairbrush
+lap desk,lap_desk
+hutch,cabinet
+stack of flat items/possibly cardboard,cardboard
+under-bed drawer,drawer
+bleach,bleach_bottle
+comidine,bedside_cabinet
+bathmat,bath_mat
+cinder block,cinder_block
+mailbox,mailbox
+writing board,whiteboard
+flooring,floor
+wall of safety boxes,wall_of_safety_boxes
+vessel,bucket
+cube sofa,cube_sofa
+toothpaste,toothpaste
+liquid dispencer,liquid_soap
+folding chair,folding_chair
+squash,squash
+grille,heater
+centerpiece,centerpiece
+wall folder,divider
+towel hanger,rail
+toilet pot,toilet
+aid,aid
+rope,rope
+envelop rack,envelop_rack
+tissue roll,toilet_tissue
+rostrum,rostrum
+owen,microwave
+electric panel,circuit_breaker
+bowl,bowl
+boiler,boiler
+tile wall,tiled_wall
+reflection,mirror
+crib,crib
+shelves of stuff,pipe
+kitchen gadget,food
+sliding door,sliding_door
+paper bag,paper_bag
+water heater,kettle
+alarm clock,alarm_clock
+chair rail,chair_rail
+corkboard,corkboard
+s?án nh?á,ceiling
+conformer,duvet
+easy chair,easy_chair
+sehpa,table
+library,bookshelf
+bench seat,bench_seat
+music stand,music_stand
+office,draws
+clutter,clutter
+flush for toilet,flush_for_toilet
+kleenex,tissue
+box/storage,box
+post,post
+plug,socket
+socket,socket
+island,kitchen_island
+instrument case,instrument_case
+paper tray,printer
+toilet paper package,toilet_tissue_pack
+antibacterial soap dispenser,soap_dispenser
+cubicle,puffett
+vaccuum,vacuum
+photography light,photography_light
+trump wall,trump_wall
+shredder,shredder
+square table,table
+table support,table_support
+sink plumbing,sink_pipe
+basin,basin
+pinball machine,pinball_machine
+meeting,table_mat
+mobile,mobile
+hatrack,coatrack
+johnny,toilet
+projector screen,projector_screen
+valance,valance
+eliptical,eliptical
+boot,boot
+window ledge,windowsill
+clothes hamper,clothes_hamper
+wall side,divider
+stairstepper,exercise_machine
+bottle recycling bin,recycling_bin
+blend,curtain
+tissue dispenser,paper_towel
+entertainment center,entertainment_center
+kettle,kettle
+laundyr supply,laundry_bottles
+chain,chair
+gown,clothes
+w.c.,toilet
+shelf unit,shelf_unit
+walss,wall
+mirror reflection,mirror
+bed curtain,bed_curtain
+papertray,paper_tray
+tissue paper,toilet_tissue
+milk,milk
+leg rest sofa,foot_stool
+double decker,bunk_bed
+dekw,desk
+sink counter top,sink_counter
+breadbox,breadbox
+floor mat,floor_mat
+electrical machine,electrical_machine
+student seat,student_chair
+privacy partition,privacy_partition
+chairlegs,keyboard
+mail tray,mail_tray
+over the door storage,over_the_door_storage
+door hinge,door_hinge
+cahi,chair
+excercise cycle,exercise_machine
+handsoap,hand_soap
+glass door,glass_door
+dustbin box,bin
+toy ship,toy_ship
+storage rack,cabinet
+wall outside room,wall_outside_room
+ask tray,centerpiece
+punching bag,sleeping_bag
+storage drawer,storage_drawer
+cat litter box,cat_litter_box
+shower rod,shower_rod
+office desk,office_desk
+water filter,water_cooler
+nicknack,decorations
+tin of drink,can
+work,work
+lustre,lampshade
+paper shredder,paper_shredder
+awllll,awllll
+booth,booth
+folded blanket,folded_blanket
+bed skirt,bed_skirt
+computer speaker,computer_speaker
+desktop computer,desktop_computer
+hadnwash,handwash
+covered box,box
+lampbase,lampbase
+net,net
+wall pane,wall_pane
+dressing gown,dressing_gown
+footstowindow 2ol,window
+display/signs,sign
+arifact,plant_pot
+leg,leg
+ceiling fan,ceiling_fan
+circular sofa,circular_sofa
+food/drink,food/drink
+chair cushion,chair_cushion
+water,water
+sinl,sink
+sing,sink
+cardboard,cardboard
+plastic sliding drawers,plastic_sliding_drawers
+celltech,battery_container
+sink tap,tap
+binder,binder
+toilet plumbing,pipe
+marble,marble
+table speaker,speaker
+talbetop,table
+gym cycle,exercise_machine
+table piece,table_piece
+counter panel,counter
+plug/outlet,socket
+till,till
+sink unit,sink
+urinary,heater
+ball chair,ball_chair
+of shelf,of_shelf
+shower rack,shower_rack
+full bed,full_bed
+sink cupboard,sink_cabinet
+house shoe,house_shoe
+cha,chair
+beachball,beach_ball
+game table,game_table
+tiny table,table
+feminine hygiene waste basket,feminine_hygiene_waste_basket
+dicplay case,display_case
+end table chair,stool
+cardbox,cardboard_box
+envelope,envelope
+resevoir,reservoir
+rabbit,rabbit
+board meeting table,board_meeting_table
+hold,rail
+laser printer,laser_printer
+glasses case,glasses_case
+thermos,blender
+shelving unit,shelving_unit
+bath towel,bath_towel
+monitor stand,monitor_stand
+breakfast bar,breakfast_bar
+flat screen television,filing cabinet
+dressin table,dressing_table
+dress rack,dress_rack
+plates of food,plate
+figure,figure
+credenza,credenza
+oejcts,objects
+sinktop,sink
+wall.table,wall_table
+penholder,penholder
+wall panel,wall_panel
+stair landing,staircase
+wallpapere,picture
+water dispencer,water_cooler
+therostat,thermostat
+frying pan,frying_pan
+separator,divider
+divider,divider
+ceiling lamp,ceiling_lamp
+rod,rod
+",amps"
+vaccum,vacuum
+chair b',chair
+paint bucket,bucket
+lighting,light
+tablecloth,tablecloth
+plank,board
+sink pipe,sink_pipe
+concrete slab,concrete_slab
+mini couch,mini_couch
+post it,post_it
+stair down,staircase
+spout,tap
+cutlery,cutlery
+magazine rack,bin
+mini printer,printer
+tray box,tray_box
+level 2 stair case,staircase
+industrial machine,printer
+gi??ß?¥ng,bed
+induction cooktop,hob
+artwork,artwork
+pillowcase,pillowcase
+window wall,wall
+minibar,fridge
+laundry detergent,laundry_detergent_bottle
+serving plate,centerpiece
+dirty basket,laundry_basket
+reading lamp,reading_lamp
+open cabinet,open_cabinet
+hand truck,handle
+pad,pad
+laptop table,laptop_table
+ventilator window,window
+esll,esll
+sofa bed,sofa_bed
+safa,sofa
+heating system,heater
+floor]floo,floor
+facial scrub,facial_scrub_bottle
+vent hood,range_hood
+office cupboard,office_cupboard
+stand fan,stand_fan
+storage shelf,shelf
+hanging clothes,hanging_clothes
+fuse box,circuit_breaker
+pizza,pizza
+personal effect,personal_effect
+drawer organizer,drawer_organizer
+main board,computer_tower
+loofa,loofa
+shower surround,shower_surround
+bycicle,bicycle
+all-in-one computer,all-in-one_computer
+box of tissue,box_of_tissues
+doorlock,doorlock
+base unit,base_unit
+tennis ball,tennis_ball
+snack machine,vending_machine
+laptop bag,rucksack
+hallway wall,hallway_wall
+msic,misc
+file organizer,filing cabinet
+fire hose,fire_hose
+media center,media_center
+umbrella,umbrella
+barrier,barrier
+dirt,bottle
+subwoofer,subwoofer
+table tennis,table_tennis
+printer/scanner,printer
+drying rack,drying_rack
+"wppd [ame,owood paneling"
+toilet robe,towel
+printer stand,printer_stand
+shower screen,shower_screen
+water bed,water_bed
+display sign,display_sign
+diaper bin,diaper_bin
+router,router
+ashtray,ashtray
+footrest/table,footrest
+cleaning brush,cleaning_brush
+bathroom desk,bathroom_desk
+toilet commode,toilet
+staicase handrail,banister
+clothes shelf,clothes_shelf
+dink,sink
+toilet seat protectors,toilet_cover
+stuffware,stuffware
+low table for storage,low_table_for_storage
+covered stuff,covered_stuff
+hood,vent
+floor reflection,floor_reflection
+can opener,can_opener
+top,top
+wheely bin,bin
+book bag,backpack
+body wash,body_wash
+study chair,student_chair
+stepladder,stepladder
+paper holder,toilet_roll
+white,white
+yoga ball,ball_chair
+consol,console_racing_wheel
+cloths container,bedside
+shorts,shorts
+emergency exit windows,emergency_exit_windows
+gym,exercise_machine
+box of tissues,box_of_tissues
+trolly,trolly
+water purifyer,water_cooler
+clutter',clutter
+wallend,divider
+tissue `paper,toilet_tissue
+mop and bucket,mop
+grocery,grocery_bag
+worktable,worktable
+air outlet,air_outlet
+fold,fold
+toilet commoed,toilet
+handfold,handle
+business chair,business_chair
+llong table chair,long_table_chair
+books in a shelf,bookshelf
+chaurs,chaurs
+tennis table stand,tennis_table_stand
+kitchen water purifier,kitchen_water_purifier
+lid,lid
+electric hob,electric_hob
+baggage,luggage
+cpnter,cpnter
+stairs (exit),staircase
+equipment,equipment
+rocking chair,rocking_chair
+bunkbed,bunk_bed
+divan,divan
+bottle of hand sanitizer,bottle_of_hand_sanitizer
+sales stall,sales_stall
+dehumidifer,dehumidifier
+wall cover,table
+plumbing,plumbing
+elliptical machine,elliptical_machine
+playball,ball
+safety bar,safety_rail
+stereo,stereo
+havlu,towel
+handbag,handbag
+furnance,heater
+shleves,shelf
+coat hanger,coat_hanger
+erar wall,erar_wall
+bed bench,bed_bench
+tissu,toilet_tissue
+plastic tub,plastic_tub
+potholder,potholder
+coffee mug,coffee_mug
+tennis rcket bag,tennis_racket_bag
+stand lamp,stand_lamp
+bed/sofa,sofa bed
+laundry supply,laundry_bottles
+document shredder,document_shredder
+gas-range stove,gas-range_stove
+table soccer,football_table
+cookingrange,cooker
+bookbags,backpack
+downstairs,staircase
+coffeepot,coffeepot
+jar,jar
+rear wall,rear_wall
+part of chair,part_of_chair
+tape,tape
+drawer table,drawer
+woodenrack,woodenrack
+toilet floor,toilet_floor
+cushioned seating,cushioned_seating
+bulls eye,bulls_eye
+soft mat,rug
+snack box,vending_machine
+desk organizer,desk_organizer
+footboard,footboard
+wall hook,wall_hook
+chopping board,chopping_board
+round picture,clock
+chimney,chimney
+studio screen,studio_screen
+personal belonging,personal_belonging
+roll of paper,roll_of_paper
+gaming wheel,console_racing_wheel
+landlord,toilet
+ebd,headboard
+heater radiator,heater
+cabinet above,cabinet_above
+weighted plate,weight
+travelling bag,luggage
+desk material,desk_material
+door wall,door_wall
+traffic cone,traffic_cone
+computer mouse,computer_mouse
+coathanger,coat_hanger
+bureau,bureau
+tyre,tire
+armchairchair,armchair
+oven range,range_hood
+pants,manakin
+chiropractic chair,chiropractic_chair
+keg,can
+spray,can
+paper trimmer,paper_cutter
+standing whiteboard,whiteboard
+desk drawer,desk_drawer
+window/windowed door,window
+soapbox,soap_dish
+pillow sofa,cushion
+centre table,centre_table
+doorway,doorway
+wall and whiteboard,wall_and_whiteboard
+laptop computer,laptop
+scanner/copier,printer
+suitcase w/clothes,luggage
+power pusher,rail
+shower faucet handle,shower_faucet_handle
+walk,walk
+matte,mat
+atm machine,atm_machine
+garage door,garage_door
+wals,wall
+cabinet aisle,cabinet_aisle
+table light,table_lamp
+guillotine paper trimmer,guillotine_paper_trimmer
+round 2\,round_table
+teddy,toy
+white board/divider,whiteboard
+white wall,wall
+mark,mark
+partition wall,partition_wall
+shag rug,shag_rug
+upstair way,staircase
+music stand',music_stand
+recamier,stool
+venthole,vent
+dining seat,dining_seat
+toilet cover,toilet_cover
+personal item,personal_item
+tallboy,drawer
+drawers unit,drawer
+teapot,pot
+cook cabinet,oven
+wok pan,saucepan
+tv tray,table
+round chair,round_table
+sawhorse,sawhorse
+kitchen range,range_hood
+busdrver,toilet
+barricade,barricade
+wall ornament,wall_ornament
+color printer,color_printer
+sticker,picture
+exit sign,exit_sign
+gas stove,gas_stove
+venta hood,range_hood
+copier/printer,printer_scanner
+wall-mounted lamp,wall_mounted_lamp
+item box,item_box
+water puifyer,water_cooler
+wall papper,wall_papper
+salt and peper,paper_tower
+printer four,printer_four
+towel fastener,rail
+basth,basth
+flipflops,flipflops
+bonus,basket
+kitchen box,kitchen_box
+central heating unit,central_heating_unit
+hanging tubelight,hanging_tube_light
+soccer ball,soccer_ball
+almarah,almarah
+canopy,canopy
+med box,medicine_cabinet
+drain,drain
+panelling,paneling
+bed stand,bed_stand
+deal,table
+massage,massage
+safety rail,safety_rail
+vacuumer,vacuum
+binfl,bin
+lightbulb,light
+door hydraulic,door_hydraulic
+induction cook top,hob
+bedstand,bedstand
+calander,artwork
+set of seats,chair
+chocolate bar dispenser,bin
+wall unit tv,wall_unit_tv
+broomstick,broomstick
+bath faucet,bath_faucet
+folded cloth,folded_cloth
+supply,paper
+under oven drawer,drawer
+kinect,kinect
+cash,case_of_water
+dining side wall,dining_side_wall
+log,board
+garden gnome,garden_gnome
+coucnb,couch
+dart,dart
+dust pan and brush,dustpan
+smoke alarm,smoke_alarm
+kitchen top,kitchen_top
+toilet flush,toilet_flush
+cooler,cooler
+kitchen island,kitchen_island
+balcony,balcony_door
+escape door,escape_door
+hammer,hammer
+wall and paiting,wall_and_paiting
+kitch shelf,kitch_shelf
+handwasher,sink
+vanity top,vanity
+bodyboard,bodyboard
+messenger bag,messenger_bag
+stationary bike,exercise_machine
+cabinet countertop,cabinet_countertop
+ping pong padle,ping_pong_racket
+teapoy,teapot
+clothes basket,laundry_hamper
+xbox,console
+both,booth
+foosball,foosball_table
+soad stand,soap_dish
+prop,prop
+buddha,buddha
+reflection in a mirror,mirror
+bar stol,bar_stool
+oven/stove,oven/stove
+patterned rug,patterned_rug
+window panel,windowsill
+vault,luggage
+dust bin cover,dust_bin_cover
+throw,bedding
+painting and frame,painting_and_frame
+covered piano,covered_piano
+drawer unit,drawer
+aircon,air_conditioner
+package,package
+gas vent,range_hood
+block,chest_of_drawers
+cloth container,laundry_basket
+additional printer,additional_printer
+danger sign,danger_sign
+game machine,foosball_table
+light fixture,light
+utility,cupboard
+base rack,base_rack
+staircase landing,staircase
+szll,szll
+piano note,piano_note
+bboks,books
+cabord,cabord
+central table,central_table
+splash,splash
+suit,suit
+cook top,hob
+jug,jug
+stepstool,stepstool
+tripod,tripod
+cover box,sign
+baby crib,baby_crib
+air condisnor,air_conditioner
+water softner,boiler
+chandelier,chandelier
+floor patterning,floor_patterning
+tablet top,table
+smoke detector,smoke_alarm
+baseball cap,baseball_cap
+tissue roll holder,toilet_tissue
+case of water,case_of_water
+wall-organizer,wall-organizer
+piece,board
+wheelbarrel,box
+desktop item,desktop_item
+tv showcase,television_stand
+chelves,chelves
+toothbrush,toothbrush
+chiffoni?¿re,chiffoni?¿re
+leg towel,towel
+flowers/decorations,flowers/decorations
+snake toy,snake_toy
+cabinet's side,cabinet's_side
+bedroom chair,bedroom_chair
+drum,laundry_basket
+liquid soap,liquid_soap
+set of bedding,sheets
+night lamp,night_lamp
+post board,post_board
+measuring cup,saucepan
+baseboard heater,baseboard_heater
+paper shelf,paper_tray
+alert sheet,alert_sheet
+duster,duster
+snooker table,snooker_table
+leg rest,foot_stool
+wall storage,wall_storage
+office board,television
+bathroom counter,bathroom_counter
+table sofa,table_sofa
+glass-topped table,glass-topped_table
+racket bat,racket_bat
+fridge handle,fridge_handle
+stove top,hob
+monitor from pc,monitor
+stick,stick
