@@ -1,7 +1,9 @@
 # Visual Graphs from Motion (VGfM): Scene understanding with object geometry reasoning
+This repo contains the code to generate scene graph and the annotations added from the ScanNet data.
 
+# Installation 
 
-This repo is build from the work of Xu et al. 
+This code is heavily build from the work of Xu et al. 
 ```
 @inproceedings{xu2017scenegraph,
   title={Scene Graph Generation by Iterative Message Passing},
@@ -11,9 +13,7 @@ This repo is build from the work of Xu et al.
  }
 ```
 
-# Installation 
-
-To install the framework, you must follow the instructions from this repo.
+To install the framework, you must follow the instructions from their repo.
 
 ```
 https://github.com/danfeiX/scene-graph-TF-release
