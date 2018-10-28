@@ -11,7 +11,6 @@ Essentially you need 4 files.
 	* `num_ims`: num_ims[s] gives the number of images in the sequence seq_names[s]
 	* `im_to_roi_idx`: im_to_roi_idx[i] gives the index of the first proposal bounding box for the image i.
 	* `num_rois`: num_rois[i] gives the number of rois contained in the image i.
-	* `num_rois`: num_rois[i] gives the number of roi present in the image i.
 	* `quadric_rois` and `rpn_rois` contain the 3D and 2D bounding boxes. `rpn_rois` is in format (left, top, right, bottom)
 	* `im_to_imdb_idx` : Link between the indices of the files `proposals.h5` and `imdb_1296.h5`. For example, the roi im_to_roi_idx[i] should be plotted with the image loaded from the path im_paths[im_to_imdb_idx[i]]
 * `scannet-SGG.h5`: contains the GT. The array are aligned with the proposal: `rpn_rois[o]` and `boxes_1296[o]` correspond to the same object.
@@ -22,12 +21,12 @@ Essentially you need 4 files.
 	* `relationships`: array of object couples.
 	* `predicates`, `predicates_all`: predicate label for the relationships containsd in `relationships`. In the former, you have only one label. In the latter you have a binary vector where predicates_all[p] indicates if predicate p is occurring for this relation.
 	* `roi_idx_to_scannet_oid`: the scannet object id (from the scannet .aggregation.json files).
-	* `split`: whether this 
+	* `split`: whether this sample belongs to the training (0) validation (1) or test (2) split. 
 * `scannet-SGG-dicts.json`: dictionnary which maps the label ids with the actual words.
 
 # Preparing the dataset
 
-To generate this data, the python script `prepare.py` has been used.
+To generate this data from the ScanNet dataset, the python script `prepare.py` has been used.
 In particular, it takes as input: 
 * `quadric_file`: this file contains the 3D bbox coordinates
 * `seqdir`: this directory contains the csv sequence file. Each sequence file contains the 2D detections for the corresponding sequence.
