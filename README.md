@@ -1,6 +1,14 @@
 # Visual Graphs from Motion (VGfM): Scene understanding with object geometry reasoning
-This repo contains the code to generate scene graph and the annotations added from the ScanNet data.
 
+This repo contains the code to generate scene graph and the relations annotations added from the ScanNet data. This material has been used in the following paper:
+
+```
+@article{gay2018visual,
+  title={Visual Graphs from Motion (VGfM): Scene understanding with object geometry reasoning},
+  author={Gay, Paul and James, Stuart and Del Bue, Alessio},
+  booktitle={Asian conference on computer vision (ACCV)},
+  year={2018}
+}
 # Installation 
 
 This code is heavily build from the work of Xu et al. 
@@ -73,18 +81,11 @@ where accuracy_result.res is a file with a python dictionnary which contains the
 
 You can then use this script to plot the curves
 ```
-python tools/plot_curves.py
+python tools/plot_curves.py --path accuracy_result.res
 ```
-Where the path to .res files must be specify inside the script.
 
 # Citation
 If you use this dataset, please cite this paper:
-```
-@article{gay2018visual,
-  title={Visual Graphs from Motion (VGfM): Scene understanding with object geometry reasoning},
-  author={Gay, Paul and James, Stuart and Del Bue, Alessio},
-  booktitle={Asian conference on computer vision (ACCV)},
-  year={2018}
-}
+
 
 
