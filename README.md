@@ -22,13 +22,9 @@ This code is heavily build from the work of Xu et al.
  }
 ```
 
-To install the framework, you must follow the instructions from their repo.
+To install the framework, you must follow the instructions from their [repo](https://github.com/danfeiX/scene-graph-TF-release).
 
-```
-https://github.com/danfeiX/scene-graph-TF-release
-```
-
-See the [data_tools](https://gitlab.iit.it/pgay/scene-graph/tree/master/data_tools) folder to see how to pre-process the ScanNet data.
+Eventually check the [data_tools](https://gitlab.iit.it/pgay/scene-graph/tree/master/data_tools) folder for details on how to pre-process the ScanNet data.
 
 # inference on a model
 From the root directory:
