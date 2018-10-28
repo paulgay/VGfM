@@ -1,6 +1,6 @@
 # Which data do I need?
 
-Essentially you need 4 files. For the scannet experiments, you can find these files in `/ssd_disk/datasets/scannet/material_for_scene_graph/` for various types of quadrics. 
+Essentially you need 4 files. 
 * `imdb_1296.h5`: contains among others the following fields: 
 	* `im_paths`: the absolute paths of the images.
 	* `images`: the image data
@@ -32,16 +32,12 @@ In particular, it takes as input:
 * `quadric_file`: this file contains the 3D bbox coordinates
 * `seqdir`: this directory contains the csv sequence file. Each sequence file contains the 2D detections for the corresponding sequence.
 * `relations_file` : this file contains the annotated relations on the ScanNet dataset in a csv format
+* The path where the ScanNet data is located (the folder containing the scenexxxx subfolders)
 
-For the past experiments reported in the paper, these files have been stored in
-```
-/ssd_disk/datasets/scannet/material_for_scene_graph/
-```
+To create these files you need to 
 
-If you want to create them yourself you need to 
-
-1. Extract the sequences from the ScannNet dataset
-2. Extract the quadrics from the sequences
+1. Extract the sequences from the ScanNet dataset
+2. Extract the quadrics from these sequences
 
 These tools to create these steps are described in the [LfDC](https://gitlab.iit.it/pgay/lfd_lfdc_plfd/tree/master) github. 
 
