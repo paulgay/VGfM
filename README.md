@@ -1,6 +1,6 @@
 # Visual Graphs from Motion (VGfM): Scene understanding with object geometry reasoning
 
-This repo contains the code to generate scene graph and the relations annotations added from the ScanNet data. This material has been used in the following paper:
+This repo contains the code to generate scene graphs given an image sequence and bounding boxe proposal. It also contains the relation annotations added on the ScanNet dataset. This material has been used in the following paper:
 
 ```
 @article{gay2018visual,
@@ -9,6 +9,7 @@ This repo contains the code to generate scene graph and the relations annotation
   booktitle={Asian conference on computer vision (ACCV)},
   year={2018}
 }
+```
 # Installation 
 
 This code is heavily build from the work of Xu et al. 
