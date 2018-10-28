@@ -1,5 +1,5 @@
-# VGfM
-This repository contains annotations which extend the first version of the [ScanNet](http://www.scan-net.org/) dataset [1]. The file `annotations.json` contains predicates for 6710 pairs of objects. 
+# Annotations 
+These annotations extend the first version of the [ScanNet](http://www.scan-net.org/) dataset [1]. The file `annotations.json` contains predicates for 6710 pairs of objects. 
 Each pair is identified by it's scene id and two object ids. These ids come from the ScanNet dataset, the object ids are located in the files `.aggregation.json`. The structure of the json is as follows:
 
 ```
