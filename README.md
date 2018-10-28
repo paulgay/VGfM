@@ -27,11 +27,11 @@ To install the framework, you must follow the instructions from their [repo](htt
 Eventually, check the [data_tools](https://github.com/paulgay/VGfM/tree/master/data_tools) folder for details on how to pre-process the ScanNet data.
 
 # inference on a model
-From the root directory:
+From the root directory, the script `test_scannet.sh` will run the inference on all the images belonging to the specified data split:
 ```
 model=dual_graph_vrd_3d
 model_file=checkpoints/weights_200999.ckpt # there place the path the model you want to test 
-out_file=my_out_file # will save the GT and the softmax for output for each state. This can be used for later evaluation. It uses the pickle python module
+out_file=my_out_file # will save the GT and the softmax output for each state. This can be used for later evaluation. It uses the pickle python module
 datadir=/ssd_disk/datasets/scannet/material_for_scene_graph/lfdc_quadrics/
 gpu_id=1
 split=2 # 0 for training, 1 for validation, 2 for testing
@@ -43,6 +43,7 @@ The different models are coded in the file `lib/networks/models.py` as different
 * `dual_graph_vrd_final`: the initial model of Xu et al. 
 * `dual_graph_vrd_3d`: VGfM approach
 * `dual_graph_vrd_2d`: VGfM-2D: using 2D bounding boxes instead of quadrics
+* `dual_graph_vrd_fus`: VGfM + fusion: The inference on each image takes into account the other images.
 
 To train the VGfM-fusion, you need to use a different script:
 ```
@@ -51,7 +52,7 @@ model=dual_graph_vrd_fus
 bash experiments/scripts/test_scannet_fus.sh ${model_file} $model 0 ${my_out_dir}/weights_${iter}_${split}.pc  $datadir 0 $split
 ```
 
-The .pc pickle file contains the predictions for every object and relations as well as the corresponding GT.
+The produced .pc pickle file contains the predictions for every object and relation as well as the corresponding GT.
 
 # training a model
 
@@ -80,9 +81,3 @@ You can then use this script to plot the curves
 ```
 python tools/plot_curves.py --path accuracy_result.res
 ```
-
-# Citation
-If you use this dataset, please cite this paper:
-
-
-
